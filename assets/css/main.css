@@ -267,13 +267,13 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-    background: url(http://media.salon.com/2014/03/alcohol-1280x960.jpg) no-repeat center top;
+    background: url(http://www.suithealth.com/wp-content/uploads/2015/10/download.jpeg) no-repeat center top;
     margin-top: -50px;
     padding-top:120px;
     text-align:center;
     background-attachment: relative;
     background-position: center center;
-    min-height: 800px;
+    min-height: 832px;
     width: 100%;
     
     -webkit-background-size: 100%;
@@ -298,14 +298,15 @@ a:after {
 }
 
 #headerwrap p {
-    color:#ffffff;
-    font-size: 40px;
-    font-weight: 400;
+    font-family: "Verdana";
+    color:#bfbfbf;
+    font-size: 70px;
+    font-weight: 10;
     text-align: center;
     line-height: 40px;
-    letter-spacing: 3px;
+    letter-spacing: 15px;
     margin-left: 15px;
-    text-shadow: 1px 1px 1px #000;
+    text-shadow: 15px 15px 15px #000;
 }
 
 #greywrap {
