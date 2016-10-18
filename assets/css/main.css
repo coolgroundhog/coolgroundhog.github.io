@@ -455,7 +455,7 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-    background-image: url('http://www.thesolutionsjournal.com/sites/default/files/Fea_Braimoh_Figure2.jpg');
+    background-image: url('http://urban-echo.co.uk/wp-content/uploads/2015/01/Drug-Dealing.jpg');
     margin-top: 0px;
 }
 
@@ -465,17 +465,21 @@ a:after {
 }
 
 .divider3 {
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d1/Mennonite_Graveyard_Heubuden_3.JPG');
+    background-image: url('http://i.huffpost.com/gen/2005604/thumbs/o-HOSPITAL-BED-facebook.jpg');
     margin-top: 0px;
 }
 
 .divider4 {
-    background-image: url('http://all4desktop.com/data_images/wallpapers/nature-and-landscape/483732.jpg');
+    background-image: url('http://crossfitthames.com/wp-content/uploads/2013/06/recovery3.jpg');
+
     margin-top: 0px;
+
+
 }
 
 .divider6 {
     background-image: url('http://www.lakehouserecoverycenter.com/wp-content/uploads/2014/11/iStock_000019123540_Large1.jpg');
+
     margin-top: 0px;
 }
 
@@ -658,16 +662,49 @@ a:after {
     background: #2b2b2b;
     padding-right: 0px;
     padding-left: 0px;
-    width: 1140px;
-    border-top: 2px solid #caaa78;    
+    
     float: left;
+   
+    
+}
+
+.blog-fourth {
+    background: #2b2b2b;
+    padding-right: 0px;
+    padding-left: 0px;
+    display: inline;
+    float: left;
+   
+    
+}
+
+.blog-fifth {
+    background: #2b2b2b;
+    padding-right: 0px;
+    padding-left: 0px;
+    display: inline;
+    float: left;
+   
     
 }
 
 
+.blog-sixth {
+    background: #2b2b2b;
+    padding-right: 0px;
+    padding-left: 0px;
+    display: inline;
+    float: left;
+   
+    
+}
+
+
+
 .blog-content {
     padding-top: 10px;
-    background: #54f766;
+    background: #e0bb06;
+    color: #8F7804;
 }
 
 .blog-content2 {
@@ -679,10 +716,30 @@ a:after {
 
 .blog-content3 {
     padding-top: 10px;
-    background: #9a1818;
-    color: #430a0a;
-    width: 750px;
-    float: right;
+    background: #e0bb06;
+    color: #8F7804;
+}
+
+.blog-content4 {
+    padding-top: 10px;
+    background: #e0bb06;
+    color: #8F7804;
+
+
+}
+
+.blog-content5 {
+    padding-top: 10px;
+    background: #e0bb06;
+    color: #8F7804;
+
+
+}
+
+.blog-content6 {
+    padding-top: 10px;
+    background: #e0bb06;
+    color: #8F7804;
 
 
 }
@@ -713,8 +770,9 @@ a:after {
     }
 }
 
-#bob {
+.bob {
     color: #666666;
+    text-align: center;
 
 }
 #bobby {
